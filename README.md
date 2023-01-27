@@ -6,23 +6,23 @@ Copyright (c) 2022-2023 [Antmicro](https://antmicro.com)
 
 ## Overview
 
-This repository contains open hardware mechanical design design files for an enclosure matching the Data Center DRAM Tester PCBs.
+This repository contains open hardware mechanical design files for an enclosure matching the Data Center DRAM Tester PCBs.
 The enclosure has been optimized mechanically for PCBs in revision 1.2.0.
 There are three major parts of the enclosure:
 
-* Bottom tray
-* Top lid (installed above the FPGA, connectors and power supply section of the PCB)
-* DRAM frame (installed around the DDR4 RDIMM module slot
+* bottom tray,
+* top lid (installed above the FPGA, connectors and power supply section of the PCB),
+* DRAM frame (installed around the DDR4 RDIMM module slot).
 
 ## Repository structure
 
-The main repository directory contains a LICENSE and README.
+The main repository directory contains a LICENSE and a README.
 The remaining files are stored in the following directories:
 
 * `step` - contains the enclosure parts published as STEP files 
 * `img` - contains graphics for this README
 
-## Key Features
+## Key features
 
 * Dust protection
 * Improves passive cooling of the FPGA 

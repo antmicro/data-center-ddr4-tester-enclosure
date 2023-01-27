@@ -6,7 +6,7 @@ Copyright (c) 2022-2023 [Antmicro](https://antmicro.com)
 
 ## Overview
 
-This repository contains open hardware mechanical design files for an enclosure matching the Data Center DRAM Tester PCBs.
+This repository contains open hardware mechanical design files for an enclosure matching the [Data Center DRAM Tester](https://github.com/antmicro/data-center-dram-tester) PCBs.
 The enclosure has been optimized mechanically for PCBs in revision 1.2.0.
 There are three major parts of the enclosure:
 

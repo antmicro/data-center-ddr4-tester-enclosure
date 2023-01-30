@@ -20,6 +20,8 @@ The main repository directory contains a LICENSE and a README.
 The remaining files are stored in the following directories:
 
 * `step` - contains the enclosure parts published as STEP files 
+* `stl` - contains the enclosure parts for 3D printing in STL format
+* `dxf` - contains the production file for PMMA laser cutting
 * `img` - contains graphics for this README
 
 ## Key features

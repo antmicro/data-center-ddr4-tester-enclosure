@@ -1,0 +1,11 @@
+Description,Quantity,Name,Finish,Material ,Manufacturer,MPN
+Enclosure base,1,base,Black-anodized,Aluminium,Custom-CNC milled,-
+Enclosure back lid,1,back_lid,Black-anodized,Aluminium,Custom-CNC milled,-
+Enclosure front lid,1,front_lid,Black-anodized,Aluminium,Custom-CNC milled,-
+Light guides,6,PMMA_lightpipe,Transparent or frosted,PMMA,Custom-Laser cut,-
+Light guide separator,1,lightpipe_separator,Any,"PLA, PETG,ABS",Custon -3D print,-
+Enclosure bolts,4,Bolt M3x8,Black-anodized,Steel,KRAFTBERG,M3X8/D7985B
+Light guide separator bolts,2,Bolt M3x4,Black-anodized,Steel,KRAFTBERG,M3X4/D7985B
+Status diodes light pipe,1,Light pipe,-,PC clear,Mentor,1296.2013
+Rubber legs,4,rubber legs,black,Rubber,FIX&FASTEN,RF8-2A
+Thermal paste,1,-,-,-,-,-

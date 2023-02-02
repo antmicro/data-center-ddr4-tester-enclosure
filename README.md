@@ -10,9 +10,14 @@ This repository contains open hardware mechanical design files for an enclosure 
 The enclosure has been optimized mechanically for PCBs in revision 1.2.0.
 There are three major parts of the enclosure:
 
-* bottom tray,
-* top lid (installed above the FPGA, connectors and power supply section of the PCB),
-* DRAM frame (installed around the DDR4 RDIMM module slot).
+* base - supporting the DRAM tester PCB from the bottom,
+* front lid - installed above the FPGA, connectors and power supply section of the PCB,
+* back lid - installed around the DDR4 RDIMM module slot.
+
+Additionally there are two mechanical components exposing the LEDs installed on the DRAM tester PCB:
+
+* PMMA lightpipe - custom lightpipe laser-cut from acrylic glass (PMMA),
+* lightpipe separator - groups LED lightpipes and keeps the custom PMMA lightpipes from stray light.
 
 ## Repository structure
 
